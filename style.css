@@ -1,0 +1,35 @@
+body {
+  font-family: Arial, sans-serif;
+  background: linear-gradient(45deg, #ff6b6b, #4ecdc4);
+  height: 100vh;
+  margin: 0;
+  color: white;
+}
+
+.container {
+  padding: 20px;
+  text-align: center;
+}
+
+#time {
+  font-size: 3em;
+  margin: 0;
+}
+
+#date {
+  font-size: 1.5em;
+  margin-top: 0;
+}
+
+.weather {
+  font-size: 1.2em;
+  margin: 20px 0;
+}
+
+.links a {
+  display: block;
+  color: white;
+  text-decoration: none;
+  margin: 10px;
+  font-size: 1.2em;
+}
